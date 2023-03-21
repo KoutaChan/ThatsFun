@@ -1,0 +1,7 @@
+name: ThatsFun
+version: '${project.version}'
+main: me.koutachan.thatsfun.ThatsFun
+api-version: 1.13
+commands:
+  fun:
+    permission: "ok"
